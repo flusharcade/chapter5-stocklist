@@ -12,3 +12,17 @@ C:\Users\Michael\Documents\Stocklist\Stocklist\bin\System.Web.Http.xml
 C:\Users\Michael\Documents\Stocklist\Stocklist\bin\System.Web.Http.WebHost.xml
 C:\Users\Michael\Documents\Stocklist\Stocklist\obj\Debug\Stocklist.dll
 C:\Users\Michael\Documents\Stocklist\Stocklist\obj\Debug\Stocklist.pdb
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\Stocklist.dll.config
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\Stocklist.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\Stocklist.pdb
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Web.Http.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\Newtonsoft.Json.xml
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Web.Http.xml
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\obj\Debug\Stocklist.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\obj\Debug\Stocklist.dll
+C:\Users\Michael\Documents\Xamarin Blueprints\Chapter 5\Stocklist\Stocklist\obj\Debug\Stocklist.pdb
